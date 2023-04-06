@@ -1,5 +1,5 @@
 :root {
-    --brand-color: #1E73BE;
+    --brand-color: #F8C365;
     --light-brand-color: #EF57F2;
     --text-color:  #000000;
     --light-text-color: #7C7C7C;
@@ -74,7 +74,7 @@ h6 {
 }
 
 p {
-    font-size: .9rem;
+    font-size: 1.2rem;
 }
 
 .emphasis {
