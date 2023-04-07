@@ -162,6 +162,9 @@ p {
         background-color: #F8C365;
         font-weight: bold
     }
+    nav{
+        margin-bottom: -25px;
+    }
 
     .headera401b7e7a35180c0 .navbar-light .navbar-nav .nav-link {
         color: black
@@ -190,3 +193,33 @@ p {
         color: black
     }
     /* #hadom(a401b7e7a35180c0) #css ends */
+
+/* #ablu(a8efe356cab990f31) #css starts  */
+.abouta8efe356cab990f31 .Background{
+    background-color: #F8C365;
+    padding: 40px
+}
+.abouta8efe356cab990f31 h2{
+    font-size: 50px;
+    color: #212529;
+    font-weight: bold
+}
+.abouta8efe356cab990f31 .stroke{
+    background-color: black;
+    color: #CBA360;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    font-style: italic
+}
+.abouta8efe356cab990f31 .btndecor{
+    background-color: #F8C365;
+    border: 1px solid black;
+    border-radius: 35px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+.abouta8efe356cab990f31 .image{
+    background-color: #F8C365
+}
+/* #ablu(a8efe356cab990f31) #css ends  */
