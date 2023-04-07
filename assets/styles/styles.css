@@ -449,3 +449,27 @@ p {
     }
 
     /* #agdan(p3dce575962b3c369) #css ends  */
+
+    /* #fantu(b8c239d630e5bdc61) #css starts */
+.footerb8c239d630e5bdc61 h2{
+    color: #000000;
+    font-size: 40px;
+    line-height: 1.5
+}
+.footerb8c239d630e5bdc61 .stroke{
+    background-color: #F8C365;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    border: 2px solid black;
+    font-style: italic
+}
+.footerb8c239d630e5bdc61 .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+.footerb8c239d630e5bdc61 img{
+    height: 70px
+}
+/* #fantu(b8c239d630e5bdc61) #css ends */
