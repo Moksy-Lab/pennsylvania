@@ -330,3 +330,92 @@ p {
     }
 
     /* #sagnu(ebfcf165e4ae5852) #css ends  */
+
+    /* #popu(aab1e10706db6325) #css starts  */
+    .productsaab1e10706db6325 .card{
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px
+    }
+    .productsaab1e10706db6325 .card-product .img-wrap {
+        border-radius: 3px 3px 0 0;
+        overflow: hidden;
+        position: relative;
+        height: 220px;
+        text-align: center
+    }
+
+    .productsaab1e10706db6325 .card-product .img-wrap img {
+        height: 200px;
+        width: 200px
+    }
+
+    .productsaab1e10706db6325 .title {
+        font-size: 22px
+    }
+
+    .productsaab1e10706db6325 .card-product .info-wrap {
+        overflow: hidden;
+        padding: 15px
+    }
+
+    .productsaab1e10706db6325 .card-product .bottom-wrap {
+        padding: 15px
+    }
+
+    .productsaab1e10706db6325 .btn-md {
+       border-radius: 35px;  
+       font-weight: bold;
+        border: 1px solid #CFCFCF
+    }
+    .productsaab1e10706db6325 .btn-md:hover {
+       background-color: #F8C364;
+    }
+
+    .productsaab1e10706db6325 .label-rating {
+        margin-right: 10px;
+        color: #333;
+        display: inline-block;
+        font-weight: bold;
+        vertical-align: middle
+    }
+    .productsaab1e10706db6325 .stroke{
+    background-color: black;
+    color: #CBA360;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    font-style: italic
+}
+.productsaab1e10706db6325 h2{
+    font-size: 50px;
+    margin-bottom: 40px
+}
+    /* #popu(aab1e10706db6325) #css ends  */
+
+/* #argentina(a79e57a5641433d04) #css starts  */
+.abouta79e57a5641433d04 h2{
+    font-size: 40px;
+    color: black;
+    line-height: 1.5
+}
+.abouta79e57a5641433d04 .stroke{
+    background-color: #F8C365;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    border: 2px solid black;
+    font-style: italic
+}
+.abouta79e57a5641433d04 li {
+            list-style: none;
+            padding: 10px 30px;
+            background-image: url("https://i.ibb.co/5Tg0P3R/chk.png");
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: 20px         
+        }
+        .abouta79e57a5641433d04 .margin{
+    font-weight: bold
+}
+
+/* #argentina(a79e57a5641433d04) #css ends  */  
