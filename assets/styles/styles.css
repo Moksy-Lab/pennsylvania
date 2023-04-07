@@ -285,3 +285,48 @@ p {
 
 
 /* #argen(a15134dac994b1360) #css ends  */
+
+    /* #sagnu(ebfcf165e4ae5852) #css starts  */
+    .serviceebfcf165e4ae5852 .card-img-top {
+        height: 70px;
+        width: 70px;
+        margin-left: 30px;
+        margin-top: 20px
+    }
+
+    .serviceebfcf165e4ae5852 .card:hover {
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px
+    }
+
+    .serviceebfcf165e4ae5852 .card-title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .serviceebfcf165e4ae5852 .Background {
+        background-color: #1D1D1D;
+        padding: 60px;
+        border-radius: 20px;
+    }
+
+    .serviceebfcf165e4ae5852 h2 {
+        font-size: 45px;
+    }
+
+    .serviceebfcf165e4ae5852 .stroke {
+        color: #CBA360;
+        font-style: italic;
+    }
+    .serviceebfcf165e4ae5852 .card-text{
+        font-size: 16px;
+    }
+
+    .serviceebfcf165e4ae5852 .btndecor {
+        background-color: #F8C365;
+        border-radius: 35px;
+        padding-right: 30px;
+        padding-left: 30px;
+        margin-top: 10px;
+    }
+
+    /* #sagnu(ebfcf165e4ae5852) #css ends  */
