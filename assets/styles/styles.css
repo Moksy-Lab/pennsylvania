@@ -418,4 +418,34 @@ p {
     font-weight: bold
 }
 
-/* #argentina(a79e57a5641433d04) #css ends  */  
+/* #argentina(a79e57a5641433d04) #css ends  */
+
+    /* #agdan(p3dce575962b3c369) #css starts  */
+    .aboutp3dce575962b3c369 .jumbotron {
+        background-color: #F8C365;
+        border-radius: 50px
+    }
+
+    .aboutp3dce575962b3c369 .DescriptionHeading {
+        font-size: 40px;
+    }
+
+    .aboutp3dce575962b3c369 .DescriptionPara {
+        font-weight: bold;
+        font-size: 18px
+    }
+
+    .aboutp3dce575962b3c369 .descriptionImage img {
+        height: 300px;
+        width: 400px
+    }
+
+    .aboutp3dce575962b3c369 .searchBtn {
+        background-color: #000000;
+        border-radius: 35px;
+        color: #998158;
+        padding: 10px 25px 10px 25px;
+        font-weight: bold
+    }
+
+    /* #agdan(p3dce575962b3c369) #css ends  */
