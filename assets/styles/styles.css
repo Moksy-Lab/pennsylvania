@@ -154,3 +154,39 @@ p {
   }
 
 /* Typography Ends here */  
+
+/* Theme CSS Starts here */
+
+    /* #hadom(a401b7e7a35180c0) #css starts */
+    .headera401b7e7a35180c0 .navbar {
+        background-color: #F8C365;
+        font-weight: bold
+    }
+
+    .headera401b7e7a35180c0 .navbar-light .navbar-nav .nav-link {
+        color: black
+    }
+
+    .headera401b7e7a35180c0 .logIn {
+        color: black
+    }
+
+    .headera401b7e7a35180c0 .logIn:hover {
+        color: black
+    }
+
+    .headera401b7e7a35180c0 #signUp {
+        color: white;
+        background-color: black;
+        font-weight: bold;
+        border-radius: 35px
+    }
+
+    .headera401b7e7a35180c0 .signUp:hover {
+        color: white
+    }
+
+    .headera401b7e7a35180c0 .nav-link:hover {
+        color: black
+    }
+    /* #hadom(a401b7e7a35180c0) #css ends */
